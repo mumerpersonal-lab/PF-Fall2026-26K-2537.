@@ -48,5 +48,4 @@ Nested List
   git commit -m "Initial commit"
   ```
 
-  ![ Naruto](
-
+  ![ Picture](https://github.com/mumerpersonal-lab/Naruto-/blob/main7.png)
