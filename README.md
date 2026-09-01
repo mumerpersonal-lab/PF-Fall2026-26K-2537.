@@ -48,4 +48,4 @@ Nested List
   git commit -m "Initial commit"
   ```
 
-  ![ Picture](https://github.com/mumerpersonal-lab/Naruto-/blob/main7.png)
+  ![ FAST NUCES ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYgJy8KA8pynJ0rced2Ffn4oy8COG7dOj0kP4pIiJ0eA&s)
